@@ -1,4 +1,4 @@
 class Dog
 end
 
-fido = New.Dog
+fido = new.Dog
